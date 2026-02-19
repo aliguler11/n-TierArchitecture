@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="csharpegitim.BusinessLayer/csharpegitim.BusinessLayer.csproj" Id="41c70a0e-73fd-41c4-8187-705acd57c16f" />
+  <Project Path="csharpegitim.DataAccessLayer/csharpegitim.DataAccessLayer.csproj" Id="fa579c76-2dbe-48a2-8bec-34adf619a199" />
+  <Project Path="csharpegitim.EntityLayer/csharpegitim.EntityLayer.csproj" Id="c2e9ea1f-47db-44aa-a641-f7e2107fd872" />
+  <Project Path="csharpegitim.PresentationLayer/csharpegitim.PresentationLayer.csproj" Id="ad74ff16-a509-417f-8c3a-30e2281bfe13" />
+</Solution>
